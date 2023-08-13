@@ -36,7 +36,7 @@ This project demonstrates the effective implementation of the MVC (Model-View-Co
 
 ### Prerequisites
 
-Outline the prerequisites needed to set up and run the project:
+Outline the prerequisites needed to set up and run the project
 
 - Java JDK 8 or later
 - Apache Maven
